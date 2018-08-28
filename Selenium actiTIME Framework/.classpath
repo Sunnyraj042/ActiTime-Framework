@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Selenium special Package/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium special Package/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium special Package/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium special Package/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium special Package/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium special Package/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium special Package/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium special Package/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium special Package/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium special Package/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium special Package/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium special Package/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium special Package/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium special Package/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium special Package/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium special Package/httpmime-4.5.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium special Package/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium special Package/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium special Package/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium special Package/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium special Package/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium special Package/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium special Package/phantomjsdriver-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium special Package/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium special Package/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium special Package/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium special Package/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium special Package/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium special Package/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium special Package/selenium-java-2.53.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium special Package/selenium-java-2.53.0-srcs.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium special Package/testng-6.9.9.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium special Package/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

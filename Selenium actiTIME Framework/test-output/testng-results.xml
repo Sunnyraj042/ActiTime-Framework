@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21673" started-at="2018-07-29T04:27:39Z" finished-at="2018-07-29T04:28:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21673" started-at="2018-07-29T04:27:39Z" finished-at="2018-07-29T04:28:01Z">
+      <class name="com.actiTime.customertest.customerDescription">
+        <test-method status="PASS" signature="configBC()[pri:0, instance:com.actiTime.customertest.customerDescription@1d057a39]" name="configBC" is-config="true" duration-ms="9572" started-at="2018-07-29T09:57:39Z" finished-at="2018-07-29T09:57:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.actiTime.customertest.customerDescription@1d057a39]" name="configBM" is-config="true" duration-ms="2320" started-at="2018-07-29T09:57:49Z" finished-at="2018-07-29T09:57:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="createCustomerWithDescription()[pri:0, instance:com.actiTime.customertest.customerDescription@1d057a39]" name="createCustomerWithDescription" duration-ms="9445" started-at="2018-07-29T09:57:51Z" finished-at="2018-07-29T09:58:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCustomerWithDescription -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:com.actiTime.customertest.customerDescription@1d057a39]" name="configAM" is-config="true" duration-ms="266" started-at="2018-07-29T09:58:01Z" finished-at="2018-07-29T09:58:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configAC()[pri:0, instance:com.actiTime.customertest.customerDescription@1d057a39]" name="configAC" is-config="true" duration-ms="48" started-at="2018-07-29T09:58:01Z" finished-at="2018-07-29T09:58:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- com.actiTime.customertest.customerDescription -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
